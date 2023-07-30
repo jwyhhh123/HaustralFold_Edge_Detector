@@ -1,0 +1,9 @@
+# ninja log v5
+26	30863	6943603567503068	C:/Users/vipuser/Desktop/comp0132_v2/comp0132_v2/third_party/FlowNet2/networks/correlation_package/build/temp.win-amd64-3.9/Release/correlation_cuda.obj	7523f65bf06bb33b
+39	106332	6943604321099368	C:/Users/vipuser/Desktop/comp0132_v2/comp0132_v2/third_party/FlowNet2/networks/correlation_package/build/temp.win-amd64-3.9/Release/correlation_cuda_kernel.obj	b731827b21496dfc
+34	17512	6958872317333157	C:/Users/vipuser/Desktop/comp0132_v2/third_party/FlowNet2/networks/correlation_package/build/temp.win-amd64-3.9/Release/correlation_cuda.obj	c7d4178d5464dbde
+190	51966	6958872661396531	C:/Users/vipuser/Desktop/comp0132_v2/third_party/FlowNet2/networks/correlation_package/build/temp.win-amd64-3.9/Release/correlation_cuda_kernel.obj	45d6b313b1b6ec35
+7	9404	6985580111165223	E:/comp0132_exp/third_party/FlowNet2/networks/correlation_package/build/temp.win-amd64-3.9/Release/correlation_cuda.obj	81e2f516b4f211c9
+0	33453	6985580351502629	E:/comp0132_exp/third_party/FlowNet2/networks/correlation_package/build/temp.win-amd64-3.9/Release/correlation_cuda_kernel.obj	f3688b816c91b6ec
+41	11239	7113360379644881	E:/comp0132_exp/third_party/FlowNet2/networks/correlation_package/build/temp.win-amd64-3.9/Release/correlation_cuda.obj	83300a93437ecce2
+44	36444	7113360631482134	E:/comp0132_exp/third_party/FlowNet2/networks/correlation_package/build/temp.win-amd64-3.9/Release/correlation_cuda_kernel.obj	991681c2d569cc4

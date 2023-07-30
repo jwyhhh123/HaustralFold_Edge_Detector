@@ -1,0 +1,9 @@
+# ninja log v5
+18	31545	6943600598750239	C:/Users/vipuser/Desktop/comp0132_v2/comp0132_v2/third_party/FlowNet2/networks/resample2d_package/build/temp.win-amd64-3.9/Release/resample2d_cuda.obj	6640f66fc38e68f3
+26	96965	6943601252189853	C:/Users/vipuser/Desktop/comp0132_v2/comp0132_v2/third_party/FlowNet2/networks/resample2d_package/build/temp.win-amd64-3.9/Release/resample2d_kernel.obj	44e318e8f8d06d81
+39	15859	6958900023286316	C:/Users/vipuser/Desktop/comp0132_v2/third_party/FlowNet2/networks/resample2d_package/build/temp.win-amd64-3.9/Release/resample2d_cuda.obj	51a3ee8e74d9654c
+44	46534	6958900329513301	C:/Users/vipuser/Desktop/comp0132_v2/third_party/FlowNet2/networks/resample2d_package/build/temp.win-amd64-3.9/Release/resample2d_kernel.obj	b717c1c7f7f567ba
+8	9164	6985581116599407	E:/comp0132_exp/third_party/FlowNet2/networks/resample2d_package/build/temp.win-amd64-3.9/Release/resample2d_cuda.obj	d5d1a23822f5cd84
+0	31936	6985581343782653	E:/comp0132_exp/third_party/FlowNet2/networks/resample2d_package/build/temp.win-amd64-3.9/Release/resample2d_kernel.obj	a767f2fdaff8623c
+42	11100	7113361128915970	E:/comp0132_exp/third_party/FlowNet2/networks/resample2d_package/build/temp.win-amd64-3.9/Release/resample2d_cuda.obj	34dd897f02051f7
+45	33775	7113361355478945	E:/comp0132_exp/third_party/FlowNet2/networks/resample2d_package/build/temp.win-amd64-3.9/Release/resample2d_kernel.obj	36414b8aa740f0ca

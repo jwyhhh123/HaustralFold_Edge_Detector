@@ -1,0 +1,9 @@
+# ninja log v5
+12	30906	6943605737187670	C:/Users/vipuser/Desktop/comp0132_v2/comp0132_v2/third_party/FlowNet2/networks/channelnorm_package/build/temp.win-amd64-3.9/Release/channelnorm_cuda.obj	9d02799fb5ba450e
+20	81770	6943606244848359	C:/Users/vipuser/Desktop/comp0132_v2/comp0132_v2/third_party/FlowNet2/networks/channelnorm_package/build/temp.win-amd64-3.9/Release/channelnorm_kernel.obj	1bf03ffee33e3c25
+44	16263	6958878331708887	C:/Users/vipuser/Desktop/comp0132_v2/third_party/FlowNet2/networks/channelnorm_package/build/temp.win-amd64-3.9/Release/channelnorm_cuda.obj	9151846f767ff6da
+49	42696	6958878595614588	C:/Users/vipuser/Desktop/comp0132_v2/third_party/FlowNet2/networks/channelnorm_package/build/temp.win-amd64-3.9/Release/channelnorm_kernel.obj	16b4158ee49d00c7
+8	10854	6985579452487321	E:/comp0132_exp/third_party/FlowNet2/networks/channelnorm_package/build/temp.win-amd64-3.9/Release/channelnorm_cuda.obj	e3a24a402e408a90
+1	35282	6985579696652724	E:/comp0132_exp/third_party/FlowNet2/networks/channelnorm_package/build/temp.win-amd64-3.9/Release/channelnorm_kernel.obj	a9d564a86c293a8c
+49	11862	7113359703443369	E:/comp0132_exp/third_party/FlowNet2/networks/channelnorm_package/build/temp.win-amd64-3.9/Release/channelnorm_cuda.obj	70f9d9307c42f800
+53	34332	7113359927996874	E:/comp0132_exp/third_party/FlowNet2/networks/channelnorm_package/build/temp.win-amd64-3.9/Release/channelnorm_kernel.obj	d460f43d45fc91c9

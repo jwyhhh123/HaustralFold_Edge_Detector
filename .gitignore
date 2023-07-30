@@ -1,0 +1,7 @@
+checkpoints
+dataset_origin
+papers
+result/test*
+result/features
+__pycache__/
+*.pyc
