@@ -1,10 +1,13 @@
 # A Self-supervised Approach for Detecting the Edges of Haustral Folds in Colonoscopy Video
 
-This is the official Pytorch Implementation for the paper [A Self-supervised Approach for Detecting the Edges of Haustral Folds in Colonoscopy Video](). We proposed a self-supervised method to train an edge detection method for colonoscopy video, demonstrating that it can effectively detect anatomy related edges while ignoring light reflection artifacts abundant in colonoscopy. We also propose a metric to evaluate the temporal consistency of estimated edges in the absence of real groundtruth. 
+This is the official Pytorch Implementation for the paper [A Self-supervised Approach for Detecting the Edges of Haustral Folds in Colonoscopy Video](). We proposed a self-supervised method to train an edge detection method for colonoscopy video, demonstrating that it can effectively detect anatomy related edges while ignoring light reflection artifacts abundant in colonoscopy. We also propose a metric to evaluate the temporal consistency of estimated edges in the absence of real groundtruth. The edges on Haustral folds are geometrically consistent, enabling greater reliablity for downstream tasks such as motion estimation. And we can, based on edge features, develop a more stable 3D navigation system. 
 
-The edges on Haustral folds are geometrically consistent, enabling greater reliablity for downstream tasks such as motion estimation. And we can, based on edge features, develop a more stable 3D navigation system. An example is shown below, where the first image represents feature correspondences on edges based on our method.
-
-<img src="result/motion.png" alt="drawing" width="880"/>
+<p align="center">
+<img src="result/framework.jpg" alt="drawing" width="720"/>
+</p>
+<p align="center">
+<img src="result/evaluation.jpg" alt="drawing" width="720"/>
+</p>
 
 ## Setup and Instruction
 
